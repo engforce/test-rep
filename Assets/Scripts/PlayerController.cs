@@ -53,29 +53,29 @@ public class PlayerController : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-		Debug.Log("g  -"+gravity+"\n"+
-		          "v  -"+speed+"\n"+
-		          "a  -"+acceleration+"\n"+
-		          "jh -"+jumpHeight+"\n"+
-		          "cwg-"+canWallGrab+"\n"+
-		          "cws-"+canWallSlide+"\n"+
-		          "cdj-"+canDoubleJump+"\n"+
-		          "chj-"+canHoverOnJump+"\n"+
-		          "cbj-"+canBoostOnJump+"\n"+
-		          "iH -"+isHovering+"\n"+
-		          "iB -"+isBoosting+"\n"+
-		          "hMt-"+hoverMaxTime+"\n"+
-		          "bMt-"+boostMaxTime+"\n"+
-		          "hT -"+hoverTime+"\n"+
-		          "bT -"+boostTime+"\n"+
-		          "aM -"+activeMode+"\n"+
-		          "sA -"+slideAccel+"\n"+
-		          "pS -"+playerSlide+"\n"+
-		          "cV -"+currentSpeed+"\n"+
-		          "tV -"+targetSpeed+"\n"+
-		          "aTM-"+amountToMove+"\n"+
-		          "aJ -"+alreadyJumped+"\n"
-		          );
+//		Debug.Log("g  -"+gravity+"\n"+
+//		          "v  -"+speed+"\n"+
+//		          "a  -"+acceleration+"\n"+
+//		          "jh -"+jumpHeight+"\n"+
+//		          "cwg-"+canWallGrab+"\n"+
+//		          "cws-"+canWallSlide+"\n"+
+//		          "cdj-"+canDoubleJump+"\n"+
+//		          "chj-"+canHoverOnJump+"\n"+
+//		          "cbj-"+canBoostOnJump+"\n"+
+//		          "iH -"+isHovering+"\n"+
+//		          "iB -"+isBoosting+"\n"+
+//		          "hMt-"+hoverMaxTime+"\n"+
+//		          "bMt-"+boostMaxTime+"\n"+
+//		          "hT -"+hoverTime+"\n"+
+//		          "bT -"+boostTime+"\n"+
+//		          "aM -"+activeMode+"\n"+
+//		          "sA -"+slideAccel+"\n"+
+//		          "pS -"+playerSlide+"\n"+
+//		          "cV -"+currentSpeed+"\n"+
+//		          "tV -"+targetSpeed+"\n"+
+//		          "aTM-"+amountToMove+"\n"+
+//		          "aJ -"+alreadyJumped+"\n"
+//		          );
 
 		if(Input.GetButtonDown("Cycle"))
 		{

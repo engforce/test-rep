@@ -44,6 +44,7 @@ public class PlayerPhysics : MonoBehaviour
 
 			ray = new Ray(new Vector2(x, y), new Vector2(0, dir));
 
+
 			Debug.DrawRay(ray.origin, ray.direction);
 
 			if(Physics.Raycast(ray, out hit, Mathf.Abs(deltaY) + skin, collisionMask))

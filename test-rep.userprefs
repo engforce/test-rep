@@ -1,10 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MovementModShifter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerPhysics.cs">
     <Files>
-      <File FileName="Assets\Scripts\MovementModShifter.cs" Line="13" Column="30" />
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="106" Column="34" />
-      <File FileName="Assets\Scripts\GameCamera.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="10" Column="33" />
+      <File FileName="Assets\Scripts\MovementModShifter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerPhysics.cs" Line="60" Column="6" />
+      <File FileName="Assets\Scripts\Weapon.cs" Line="43" Column="5" />
+      <File FileName="Assets\Scripts\WeaponDirectionHandler.cs" Line="38" Column="6" />
+      <File FileName="Assets\Scripts\MoveBulletTrail.cs" Line="16" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
